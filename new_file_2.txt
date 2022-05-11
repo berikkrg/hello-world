@@ -1,2 +1,3 @@
 Hello
 second line
+new line in master branch
